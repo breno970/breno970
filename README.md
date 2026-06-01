@@ -1,30 +1,46 @@
+<h1 align="center">Olá, eu sou Breno Fernandes</h1>
 
-<div>
-  <a href="https://github.com/breno970">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno970&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno970&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h3 align="center">
+  Suporte Técnico | Help Desk | Tecnologia da Informação | Desenvolvimento Web | Análise de Dados
+</h3>
 
- ![Snake animation](https://github.com/breno970/breno970/blob/output/github-contribution-grid-snake.svg)
-  
+<p align="center">
+  Profissional em desenvolvimento na área de Tecnologia, com interesse em Suporte Técnico, Atendimento ao Usuário,
+  Desenvolvimento Web, Análise de Dados, Automação de Processos e Soluções Digitais.
+</p>
+
+---
+
+### Sobre mim
+
+- Busco oportunidades em **Tecnologia da Informação, Suporte Técnico, Help Desk, Service Desk, Desenvolvimento Web e Análise de Dados**
+- Conhecimentos em **HTML, CSS, JavaScript, React, Python, C#, SQL, Excel e Power BI**
+- Interesse em **automação, sistemas web, banco de dados, atendimento ao usuário e melhoria de processos**
+- Perfil com foco em **aprendizado contínuo, resolução de problemas, comunicação, organização e trabalho em equipe**
+- GitHub: [github.com/breno970](https://github.com/breno970)
+- LinkedIn: [linkedin.com/in/breno-fernandesz](https://www.linkedin.com/in/breno-fernandesz/)
+
+---
+
+### Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://gifimage.net/wp-content/uploads/2017/10/dedsec-gif-3.gif">
+  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" title="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" title="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSharp" title="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" title="SQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" title="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC4ZYJ5CvQUqrDrntjViSKFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/breno.fernandesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/breno970" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-fernandes-3726911a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
+
+---
+
+
+
+```text
+Suporte Técnico | Help Desk | Service Desk | Tecnologia da Informação | Atendimento ao Usuário
+Desenvolvimento Web | Front-End | JavaScript | React | HTML | CSS | Python | C# | SQL
+Análise de Dados | Power BI | Excel | Banco de Dados | Automação de Processos
+Resolução de Problemas | Comunicação | Trabalho em Equipe | Organização | Aprendizado Contínuo
